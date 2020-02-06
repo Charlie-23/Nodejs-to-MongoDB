@@ -1,0 +1,9 @@
+{
+    "user_id": 5,
+    "name": "Piyush",
+    "age": 19,
+    "Course":"BTech",
+    "Branch":"Electrical",
+    "Location":"Bhubaneswar",
+    "Intrests":["Power Systems", "Reading","Painting"]
+}

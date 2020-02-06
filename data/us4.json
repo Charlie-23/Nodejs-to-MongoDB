@@ -1,0 +1,9 @@
+{
+    "user_id": 4,
+    "name": "Ram",
+    "age": 18,
+    "Course":"BTech",
+    "Branch":"Electronics",
+    "Location":"Bhubaneswar",
+    "Intrests":["COA", "FGPA","Verilog"]
+}

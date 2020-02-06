@@ -1,0 +1,9 @@
+{
+    "user_id": 3,
+    "name": "Rahul",
+    "age": 20,
+    "Course":"BTech",
+    "Branch":"Mechanical",
+    "Location":"Bhubaneswar",
+    "Intrests":["Cars", "Thermodynamics","Casting"]
+}

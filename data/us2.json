@@ -1,0 +1,9 @@
+{
+    "user_id": 2,
+    "name": "Ambrish",
+    "age": 20,
+    "Course":"BTech",
+    "Branch":"Civil",
+    "Location":"Bhubaneswar",
+    "Intrests":["Politics", "History", "Coding","Data Science"]
+}
